@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **BonedDeng/BonedDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +16,8 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://s1.ax1x.com/2022/04/19/LworCt.gif?raw=true" width="300" height="180" />
 
 ### Hi there 👋
-- 🤣 a student
-- 😣 In recent years, I have been working on chem and ai
+- 🌱 a student
+- 🔭 In recent years, I have been working on chem and ai
 - ✏️ Just write something when you think about it
 - 💪 I hope to pursue academic pursuits in the future
 <br>
