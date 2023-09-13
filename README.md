@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🔭 In recent years, I have been working on quantum chem and ai
 - ✏️ Just write something when you think about it
 - 💪 I hope to pursue academic pursuits in the future
+- ⚡ Wechat:18681265447
 <br>
 Recently, I saw a very touching sentence for the stranger who saw here.
 <br>
