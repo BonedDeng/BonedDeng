@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 - 🌱 a student
-- 🔭 In recent years, I have been working on quantum chem and ai
+- 🔭 In recent years, I have been working on quantum chem computer vision and ai
 - ✏️ Just write something when you think about it
 - 💪 I hope to pursue academic pursuits in the future
 - ⚡ Wechat:18681265447
