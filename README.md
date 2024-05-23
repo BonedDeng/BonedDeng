@@ -27,7 +27,17 @@ Recently, I saw a very touching sentence for the stranger who saw here.
 <br>
 Dare to challenge and achieve success😊~
 <br>
+- 古人云 (Ancients say) = Call to all library functions declared
+- 孔子云 (Confucius says) = Call to "The Analects" declarations
+- 成语 (Idiom) = Direct call to an existing class
+- 典故 (Allusion) = Struct pointer
+- 一词多义 (One word, multiple meanings) = Function overloading
+- 梗 (Meme) = fopen
+- 那个/这个/某个 (That one/This one/A certain one) = Wild pointer
+- 面向对象的语言艺术 (The art of object-oriented language) = Object-oriented programming art
 <br>
+
+
 
 ![Java](https://img.shields.io/badge/Java-1.8-orange?style=flat-square&logo=Java) ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 
