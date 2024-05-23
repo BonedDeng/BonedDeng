@@ -28,12 +28,19 @@ Recently, I saw a very touching sentence for the stranger who saw here.
 Dare to challenge and achieve success😊~
 <br>
 - 古人云 (Ancients say) = Call to all library functions declared
+<br>
 - 孔子云 (Confucius says) = Call to "The Analects" declarations
+<br>
 - 成语 (Idiom) = Direct call to an existing class
+<br>
 - 典故 (Allusion) = Struct pointer
+<br>
 - 一词多义 (One word, multiple meanings) = Function overloading
+<br>
 - 梗 (Meme) = fopen
+<br>
 - 那个/这个/某个 (That one/This one/A certain one) = Wild pointer
+<br>
 - 面向对象的语言艺术 (The art of object-oriented language) = Object-oriented programming art
 <br>
 
