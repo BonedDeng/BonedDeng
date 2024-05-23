@@ -41,7 +41,7 @@ Dare to challenge and achieve success😊~
 <br>
 - 那个/这个/某个 (That one/This one/A certain one) = Wild pointer
 <br>
-- 面向对象的语言艺术 (The art of object-oriented language) = Object-oriented programming art
+- 面向对象的语言艺术 (Chinese---The art of object-oriented language) = Object-oriented programming art
 <br>
 
 
